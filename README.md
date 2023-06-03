@@ -23,10 +23,17 @@ VIII. Evaluating the model using Precision – Recall: On the test data frame, t
 It was found that the variables that mattered the most in the potential buyers are:
 
 Total number of visits.
+
 The total time spend on the Website.
+
 When the lead source was: a. Google b. Direct traffic c. Organic search
+
 When the last activity was: a. SMS b. Olark chat conversation
+
 When the lead origin is Lead add form.
+
 When their current occupation is as a working professional, student, unemployed or other.
+
 The option given by the company to get an email from company is an important variable.
+
 The Last Notable Activity where student is unreachable.
